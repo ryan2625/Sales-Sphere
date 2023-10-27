@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Prompt&display=swap');
+@import 'bootstrap/dist/css/bootstrap.min.css';
+
+body {
+  margin: 0;
+  font-family: 'Prompt', sans-serif;
+}
+
+:root{
+  --medium-bg: rgb(62, 62, 62);
+  --light-bg: rgb(159, 159, 159);
+}

@@ -1,0 +1,8 @@
+.shippingModal > h5{
+    padding: .5rem;
+    color: #ffffff;
+    background-color: var(--medium-bg);
+    font-size: calc(4px + 1vw);
+    text-align: center;
+    margin: 0rem;
+}

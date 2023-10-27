@@ -1,0 +1,27 @@
+.nav-container{
+    background-color: var(--medium-bg);
+}
+
+.offcanvas-body, .offcanvas-header{
+    background-color: var(--light-bg);
+}
+
+.offcanvas-title{
+    color: #ffffff
+}
+
+.btn-close {
+    background-color: #ffffff !important
+}
+
+#logo-nav{
+    width: 250px;
+}
+
+#nav-links > *, #nav-links > * > a{
+    color: #ffffff;
+}
+
+#main-navbar{
+    background-color: var(--light-bg) !important;
+}
